@@ -1,7 +1,6 @@
 # This Python file uses the following encoding: utf-8
 import sys
 from pathlib import Path
-from PySide6.QtCore import QUrl
 from PySide6.QtCore import QThread
 from PySide6.QtCore import QObject
 from PySide6.QtCore import Signal
